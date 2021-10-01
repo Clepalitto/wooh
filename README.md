@@ -13,3 +13,5 @@ In order to display today's celebrations, Wooh uses wikipedia-api Python library
 > #
 > [Wikipedia](https://www.wikipedia.org/) is an open encyclopedia from and for everybody supported by the [Wikimedia Foundation](https://wikimediafoundation.org/)
 > #
+
+# And don't forget to **contribute** ! 😄
