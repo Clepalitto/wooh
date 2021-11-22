@@ -1,5 +1,7 @@
 <center><p><img src="FINAL.png" width="300"></p></center>
 
+Logo by [Jojolabatterie](https://github.com/jojolabatterie) on GitHub
+
 # Wooh
 A little program which tells you what people are celebrating today in the world (using wikipedia)
 
@@ -21,3 +23,5 @@ In order to display today's celebrations, Wooh uses wikipedia-api Python library
 Now, you can use the UI version of Wooh !
 
 # And don't forget to **contribute** ! 😄
+
+
